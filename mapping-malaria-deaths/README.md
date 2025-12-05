@@ -5,7 +5,7 @@ Built with **R** and **Quarto**, the dashboard uses custom themes and color grad
 
 ### **Live** [Dashboard](https://darakhshannehal.quarto.pub/malaria/#global)
 
-![](Dashboard.png)
+![](dashboard.png)
 
 ### [Full Analysis](index.qmd)
 

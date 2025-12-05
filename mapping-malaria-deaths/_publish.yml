@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 13bf9911-9985-4c29-850b-610647f8642c
+      url: https://darakhshannehal.quarto.pub/malaria
