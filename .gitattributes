@@ -1,2 +1,4 @@
 *.qmd linguist-language=R
-*.js linguist-detectable=false
+
+# Ignore rendered site output
+_site/** linguist-detectable=false
